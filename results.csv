@@ -1,0 +1,10 @@
+structure,n,insert_ms,search_ms,delete_ms
+BST (random keys),100,0.031,0.022,0.025
+BST (sorted keys - worst case),100,0.128,0.111,0.009
+Hash Table (random keys),100,0.056,0.009,0.012
+BST (random keys),1000,0.481,0.344,0.420
+BST (sorted keys - worst case),1000,12.001,10.889,0.093
+Hash Table (random keys),1000,0.500,0.087,0.124
+BST (random keys),10000,6.686,4.956,5.586
+BST (sorted keys - worst case),10000,1217.999,1170.114,0.986
+Hash Table (random keys),10000,5.650,0.983,1.288
